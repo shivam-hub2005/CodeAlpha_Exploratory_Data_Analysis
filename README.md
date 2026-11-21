@@ -32,6 +32,12 @@ This project focuses on Exploratory Data Analysis (EDA) of the UCI Online Retail
 - Top Product by Revenue: DOTCOM POSTAGE
 - Top Customer ID: 14646
 
+### EDA Dashboard
+
+The following dashboard summarizes the key findings from the Online Retail dataset.
+
+![EDA Dashboard](screenshots/eda_dashboard.png)
+
 ### Project Structure
 - `dataset/` – Dataset files (if included)
 - `notebooks/` – Jupyter Notebook analysis
