@@ -41,6 +41,7 @@ The following analyses were performed:
 - Top Revenue Country: United Kingdom
 - UK Revenue: £9,001,744.09
 - Top Product by Revenue: DOTCOM POSTAGE
+Note: DOTCOM POSTAGE represents a postage-related charge, not an ordinary merchandise product. It should be interpreted separately from physical products.
 - Top Customer ID: 14646
 - Top Customer Spending: £280,206.02
 - Average Order Value: £533.17
