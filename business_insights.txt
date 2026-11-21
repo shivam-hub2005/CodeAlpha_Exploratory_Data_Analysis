@@ -1,0 +1,10 @@
+
+CODEALPHA - EXPLORATORY DATA ANALYSIS
+
+1. Total Revenue: £10,642,110.80
+2. Best Sales Month: 2011-11
+3. Top Country: United Kingdom
+4. Top Product: DOTCOM POSTAGE
+5. Top Customer ID: 14646.0
+6. Average Order Value: £533.17
+7. Average Items Per Order: 279.18
